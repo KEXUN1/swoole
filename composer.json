@@ -1,0 +1,14 @@
+{
+    "name": "www/swoole",
+    "description": "test",
+    "authors": [
+        {
+            "name": "kexun",
+            "email": "1193747537@qq.com"
+        }
+    ],
+    "require": {
+        "ares333/php-curl": "^4.2",
+        "illuminate/database": "^5.5"
+    }
+}
